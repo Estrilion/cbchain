@@ -3,4 +3,9 @@
 /target/
 /.gradle/
 /classes/
+/bin/
 hs_err_pid*
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.buildship.core.prefs
